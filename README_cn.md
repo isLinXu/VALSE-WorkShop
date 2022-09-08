@@ -5,9 +5,11 @@
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/VALSE-WorkShop) ![img](https://badgen.net/badge/icon/vison?icon=awesome&label) ![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![](https://img.shields.io/badge/-Seminar-blue)
 ![](https://badgen.net/github/stars/isLinXu/VALSE-Workshop)![](https://badgen.net/github/forks/isLinXu/VALSE-Workshop)![](https://badgen.net/github/prs/isLinXu/VALSE-Workshop)![](https://badgen.net/github/releases/isLinXu/VALSE-Workshop)![](https://badgen.net/github/license/isLinXu/VALSE-Workshop)
 
-简体中文|[English](./README.md)
+简体中文 | [English](./README.md)
 
 # Abstract
+
+[官网](http://valser.org/) | [公众号](./figure/wechat.jpg) | [博客](https://blog.sina.cn/dpool/blog/u/5825767753#type=-1)
 
 ​	VALSE年度研讨会的主要目的是为计算机视觉、图像处理、模式识别与机器学习研究领域内的中国青年学者（以80后为主）提供一个深层次学术交流的舞台。在这个舞台上，我们恪守并倡导理性批判、勇于探索、实证、创新等科学精神；在这个舞台上，我们倡导自由平等原则下、理性而纯学术的百家争鸣和思想交锋；这个舞台上，我们期望欣赏到国内青年学者越来越优美的学术华尔兹（VALSE）。通过这个舞台，我们期望促进国内青年学者的思想交流和学术合作，从而在相关领域做出重量级学术贡献，提升中国学者在国际学术舞台上的学术影响力。
 
@@ -34,3 +36,4 @@
 
 # Introduction
 
+这个项目是VALSE及其年度研讨会相关资源的非官方整理汇总，其主要目的是为了更加方便大家进行交流与学习，同时也非常欢迎大家进行补充内容以及提出建议。
