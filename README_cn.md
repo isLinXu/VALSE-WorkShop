@@ -5,11 +5,13 @@
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/VALSE-WorkShop) ![img](https://badgen.net/badge/icon/vison?icon=awesome&label) ![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![](https://img.shields.io/badge/-Seminar-blue)
 ![](https://badgen.net/github/stars/isLinXu/VALSE-Workshop)![](https://badgen.net/github/forks/isLinXu/VALSE-Workshop)![](https://badgen.net/github/prs/isLinXu/VALSE-Workshop)![](https://badgen.net/github/releases/isLinXu/VALSE-Workshop)![](https://badgen.net/github/license/isLinXu/VALSE-Workshop)
 
-[简体中文](./README.md)|English
+简体中文|[English](./README.md)
 
 # Abstract
 
-The main purpose of the VALSE annual seminar is to provide a stage for deep academic exchanges among young Chinese scholars (mainly born in the post-80 s) in the fields of computer vision, image processing, pattern recognition and machine learning. On this stage, we uphold and advocate the scientific spirit of rational criticism, brave exploration, demonstration, and innovation. On this stage, we advocate the rational and pure academic contention and ideological confrontation of freedom and equality; On this stage, we expect to appreciate the increasingly beautiful academic waltz (VALSE) of young domestic scholars. Through this stage, we hope to promote the exchange of ideas and academic cooperation among young domestic scholars, so as to make heavyweight academic contributions in relevant fields, and enhance the academic influence of Chinese scholars on the international academic stage. so far, VALSE has been successfully held for twelve sessions,  VALSE 2011 (Hangzhou), VALSE 2012 (Xi'an), VALSE 2013 (Nanjing), VALSE 2014 (Qingdao), VALSE 2015 (Chengdu), VALSE 2016 (Wuhan), VALSE 2017 (Xiamen), VALSE 2018 (Dalian), VALSE 2019 (Hefei), VALSE 2020 (online), VALSE 2021 (Hangzhou), VALSE 2022 (Tianjin).
+​	VALSE年度研讨会的主要目的是为计算机视觉、图像处理、模式识别与机器学习研究领域内的中国青年学者（以80后为主）提供一个深层次学术交流的舞台。在这个舞台上，我们恪守并倡导理性批判、勇于探索、实证、创新等科学精神；在这个舞台上，我们倡导自由平等原则下、理性而纯学术的百家争鸣和思想交锋；这个舞台上，我们期望欣赏到国内青年学者越来越优美的学术华尔兹（VALSE）。通过这个舞台，我们期望促进国内青年学者的思想交流和学术合作，从而在相关领域做出重量级学术贡献，提升中国学者在国际学术舞台上的学术影响力。
+
+​	截至目前，VALSE已成功举办十二届，分别为 VALSE 2011（杭州），VALSE 2012（西安），VALSE 2013（南京），VALSE 2014（青岛），VALSE 2015（成都），VALSE 2016（武汉），VALSE 2017（厦门），VALSE 2018（大连），VALSE 2019（合肥），VALSE 2020（线上），VALSE 2021（杭州），VALSE 2022（天津）。
 
 | No.  | Year |   Pos.   |                             Url                              |
 | :--: | :--: | :------: | :----------------------------------------------------------: |
@@ -27,8 +29,6 @@ The main purpose of the VALSE annual seminar is to provide a stage for deep acad
 |  12  | 2022 | Tianjin  |             [website](http://valser.org/2022/#/)             |
 |  13  | ...  |   ...    |                             ...                              |
 |  14  |  -   |    -     |                              -                               |
-
-
 
 ---
 
