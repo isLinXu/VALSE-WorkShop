@@ -34,5 +34,102 @@ The main purpose of the VALSE annual seminar is to provide a stage for deep acad
 
 # Introduction
 
-This project is an unofficial summary of the resources related to VALSE and its annual seminar. Its main purpose is to more facilitate your communication and learning, and we also welcome your additions and suggestions.
+This project is an **unofficial** summary of the resources related to VALSE and its annual seminar. Its main purpose is to more facilitate your communication and learning, and we also welcome your additions and suggestions.
 
+Here is a summary of some top conferences and top journals. I hope it will be helpful for beginners like me.
+
+- Meeting
+  - International conference in the field of computer vision
+  - International conference in the field of machine learning
+- Journal
+  - Computer vision journal
+  - International journals in the field of computer vision
+
+# New's
+
+- ...
+- Supplement the preliminary content and design 2022-09-20
+- Create and init the project  2022-09-07
+
+# content
+
+| No.  |    Year    |   Pos.   |                           download                           | code |
+| :--: | :--------: | :------: | :----------------------------------------------------------: | :--: |
+|  1   | VALSE 2011 | Hangzhou |                              -                               |  -   |
+|  2   | VALSE 2012 |  Xi'an   |                              -                               |  -   |
+|  3   | VALSE 2013 | Nanjing  |                              -                               |  -   |
+|  4   | VALSE 2014 | Qingdao  |                              -                               |  -   |
+|  5   | VALSE 2015 | Chengdu  |                              -                               |  -   |
+|  6   | VALSE 2016 |  Wuhan   |                              -                               |  -   |
+|  7   | VALSE 2017 |  Xiamen  | [link](https://pan.baidu.com/s/1kaaS8Ark6pyB3cqGEL5-og?pwd=4w7t) | 4w7t |
+|  8   | VALSE 2018 |  Dalian  | [link](https://pan.baidu.com/s/14L4V6o-FDaUBerfUwc00pA?pwd=iarn) | iarn |
+|  9   | VALSE 2019 |  Hefei   |                              -                               |  -   |
+|  10  | VALSE 2020 |  online  |                              -                               |  -   |
+|  11  | VALSE 2021 | Hangzhou |                              -                               |  -   |
+|  12  | VALSE 2022 | Tianjin  |                              -                               |  -   |
+|  13  |    ...     |   ...    |                             ...                              | ...  |
+|  14  |     -      |    -     |                              -                               |  -   |
+
+
+
+Here are some content and resources downloaded from the official website, you can take it yourself.
+
+| No.  | Source  | Download                                                     | code |
+| :--: | ------- | ------------------------------------------------------------ | ---- |
+|  1   | slide   | [download]( https://pan.baidu.com/s/1o4-WCCUM831m8vX6j7EoyA?pwd=kfi9) | kfi9 |
+|  2   | slide-1 | [download](https://pan.baidu.com/s/1DwaG6B9U8y33xs54ShZiGQ?pwd=a2ci ) | a2ci |
+|  3   | slide-2 | [download](https://pan.baidu.com/s/1cPo8FwsU1d-N2u9irHxY4g?pwd=bb4h) | bb4h |
+
+
+
+# script
+
+You can use the following script to download the resources, but it is recommended not to do this to avoid affecting the official website. If necessary, save the above resources or download it from the official website.
+
+## download webinar
+
+```shell
+python scripts/webinar/valse_slides.py
+```
+
+message will save slides_info
+
+> 20220810 gao-icml-ppt.pdf
+> 20220810 VALSE 22-20 白璐 PPT.pdf
+> 20220803 valse_generativemodel_small-bolei zhou.pdf
+> 20220803 dpms-30min李崇轩.pdf
+> 20220629 What to contrast_苏冰.pdf
+> 20220629 CRIS-presentation-宫明明.pdf
+> 20220615 research_slides.pdf
+> 20220615 SciML-Jianxun_Wang.pdf
+> 20220608 understanding_cl_valse.pdf
+
+## download article
+
+```shell
+python scripts/article/valse_slides_1.py
+```
+
+>  (1) Download PDF files from:  
+>  http://valser.org/article-269-1.html  
+>  http://valser.org/article-270-1.html  
+>  ……  
+>  http://valser.org/article-356-1.html  
+
+```shell
+python scripts/article/valse_slides_1.py
+```
+
+> (2) Download PDF files from:  
+> http://valser.org/portal.php?mod=attachment&id=1  
+> http://valser.org/portal.php?mod=attachment&id=2  
+> ……  
+> http://valser.org/portal.php?mod=attachment&id=79  
+
+# References
+
+1.http://valser.org/
+
+2.https://github.com/hwei-hw/VALSE
+
+3.https://github.com/yuzhounh/VALSE-Webinar-Slides-2

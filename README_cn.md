@@ -7,7 +7,7 @@
 
 简体中文 | [English](./README.md)
 
-# Abstract
+# 摘要
 
 [官网](http://valser.org/) | [公众号](./figure/wechat.jpg) | [博客](https://blog.sina.cn/dpool/blog/u/5825767753#type=-1)
 
@@ -34,6 +34,113 @@
 
 ---
 
-# Introduction
 
-这个项目是VALSE及其年度研讨会相关资源的非官方整理汇总，其主要目的是为了更加方便大家进行交流与学习，同时也非常欢迎大家进行补充内容以及提出建议。
+
+
+
+
+# 介绍
+
+这个项目是VALSE及其年度研讨会相关资源的**非官方**整理汇总，其主要目的是为了更加方便大家进行交流与学习，同时也非常欢迎大家进行补充内容以及提出建议。
+
+这里是一些顶会和顶刊的汇总，希望对像我一样的科研初学者有帮助。
+
+- 会议
+  - 计算机视觉领域国际会议
+  - 机器学习领域国际会议
+- 期刊
+  - 计算机视觉期刊
+  - 计算机视觉领域国际期刊
+
+
+
+# 更新记录
+
+- ...
+- 补充初步内容与设计 2022-09-20
+- 创建项目仓库 2022-09-07
+
+# 主要内容
+
+下列将历年收集到的资料与视频整理如下，以百度云盘的形式进行存储。
+
+| 序号 |    年份    |   地点   |                           资源下载                           | 提取码 |
+| :--: | :--------: | :------: | :----------------------------------------------------------: | :----: |
+|  1   | VALSE 2011 | Hangzhou |                              -                               |   -    |
+|  2   | VALSE 2012 |  Xi'an   |                              -                               |   -    |
+|  3   | VALSE 2013 | Nanjing  |                              -                               |   -    |
+|  4   | VALSE 2014 | Qingdao  |                              -                               |   -    |
+|  5   | VALSE 2015 | Chengdu  |                              -                               |   -    |
+|  6   | VALSE 2016 |  Wuhan   |                              -                               |   -    |
+|  7   | VALSE 2017 |  Xiamen  | [链接](https://pan.baidu.com/s/1kaaS8Ark6pyB3cqGEL5-og?pwd=4w7t) |  4w7t  |
+|  8   | VALSE 2018 |  Dalian  | [链接](https://pan.baidu.com/s/14L4V6o-FDaUBerfUwc00pA?pwd=iarn) |  iarn  |
+|  9   | VALSE 2019 |  Hefei   |                              -                               |   -    |
+|  10  | VALSE 2020 |  online  |                              -                               |   -    |
+|  11  | VALSE 2021 | Hangzhou |                              -                               |   -    |
+|  12  | VALSE 2022 | Tianjin  |                              -                               |   -    |
+|  13  |    ...     |   ...    |                             ...                              |  ...   |
+|  14  |     -      |    -     |                              -                               |   -    |
+
+
+
+这里是从官网上下载的一些内容与资源，诸君可自取。
+
+| 序号 | 相关资源 | 资源下载                                                     | 提取码 |
+| :--: | -------- | ------------------------------------------------------------ | ------ |
+|  1   | slide    | [下载]( https://pan.baidu.com/s/1o4-WCCUM831m8vX6j7EoyA?pwd=kfi9) | kfi9   |
+|  2   | slide-1  | [下载](https://pan.baidu.com/s/1DwaG6B9U8y33xs54ShZiGQ?pwd=a2ci ) | a2ci   |
+|  3   | slide-2  | [下载](https://pan.baidu.com/s/1cPo8FwsU1d-N2u9irHxY4g?pwd=bb4h) | bb4h   |
+
+
+
+# 脚本
+
+可以使用下面这些脚本来进行资源下载，但建议不要这样做，避免对官网造成影响。如有需要直接保存上面的资源或者从官网专门下载即可。
+
+## 下载webinar
+
+```shell
+python scripts/webinar/valse_slides.py
+```
+
+主要下载内容信息将记录在slide_info中。
+
+> 20220810 gao-icml-ppt.pdf
+> 20220810 VALSE 22-20 白璐 PPT.pdf
+> 20220803 valse_generativemodel_small-bolei zhou.pdf
+> 20220803 dpms-30min李崇轩.pdf
+> 20220629 What to contrast_苏冰.pdf
+> 20220629 CRIS-presentation-宫明明.pdf
+> 20220615 research_slides.pdf
+> 20220615 SciML-Jianxun_Wang.pdf
+> 20220608 understanding_cl_valse.pdf
+
+## 下载article
+
+```shell
+python scripts/article/valse_slides_1.py
+```
+
+>  (1) Download PDF files from:  
+>  http://valser.org/article-269-1.html  
+>  http://valser.org/article-270-1.html  
+>  ……  
+>  http://valser.org/article-356-1.html  
+
+```shell
+python scripts/article/valse_slides_1.py
+```
+
+> (2) Download PDF files from:  
+> http://valser.org/portal.php?mod=attachment&id=1  
+> http://valser.org/portal.php?mod=attachment&id=2  
+> ……  
+> http://valser.org/portal.php?mod=attachment&id=79  
+
+# 参考
+
+1.http://valser.org/
+
+2.https://github.com/hwei-hw/VALSE
+
+3.https://github.com/yuzhounh/VALSE-Webinar-Slides-2
