@@ -39,11 +39,11 @@ This project is an **unofficial** summary of the resources related to VALSE and 
 Here is a summary of some top conferences and top journals. I hope it will be helpful for beginners like me.
 
 - Meeting
-  - International conference in the field of computer vision
-  - International conference in the field of machine learning
+  - [International conference in the field of computer vision](https://github.com/isLinXu/VALSE-WorkShop/blob/main/meeting/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%86%E5%9F%9F%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE.md)
+  - [International conference in the field of machine learning](https://github.com/isLinXu/VALSE-WorkShop/blob/main/meeting/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E9%A2%86%E5%9F%9F%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE.md)
 - Journal
-  - Computer vision journal
-  - International journals in the field of computer vision
+  - [Computer vision journal](https://github.com/isLinXu/VALSE-WorkShop/blob/main/journal/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E6%9C%9F%E5%88%8A.md)
+  - [International journals in the field of computer vision](https://github.com/isLinXu/VALSE-WorkShop/blob/main/journal/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E9%A2%86%E5%9F%9F%E5%9B%BD%E9%99%85%E6%9C%9F%E5%88%8A.md)
 
 # New's
 

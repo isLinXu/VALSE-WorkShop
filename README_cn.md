@@ -46,11 +46,11 @@
 这里是一些顶会和顶刊的汇总，希望对像我一样的科研初学者有帮助。
 
 - 会议
-  - 计算机视觉领域国际会议
-  - 机器学习领域国际会议
+  - [计算机视觉领域国际会议](https://github.com/isLinXu/VALSE-WorkShop/blob/main/meeting/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%A2%86%E5%9F%9F%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE.md)
+  - [机器学习领域国际会议](https://github.com/isLinXu/VALSE-WorkShop/blob/main/meeting/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E9%A2%86%E5%9F%9F%E5%9B%BD%E9%99%85%E4%BC%9A%E8%AE%AE.md)
 - 期刊
-  - 计算机视觉期刊
-  - 计算机视觉领域国际期刊
+  - [计算机视觉期刊](https://github.com/isLinXu/VALSE-WorkShop/blob/main/journal/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E6%9C%9F%E5%88%8A.md)
+  - [计算机视觉领域国际期刊](https://github.com/isLinXu/VALSE-WorkShop/blob/main/journal/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E9%A2%86%E5%9F%9F%E5%9B%BD%E9%99%85%E6%9C%9F%E5%88%8A.md)
 
 
 
