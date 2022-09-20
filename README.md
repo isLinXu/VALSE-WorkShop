@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/VALSE-WorkShop) ![img](https://badgen.net/badge/icon/vison?icon=awesome&label) ![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![](https://img.shields.io/badge/-Seminar-blue)
 ![](https://badgen.net/github/stars/isLinXu/VALSE-Workshop)![](https://badgen.net/github/forks/isLinXu/VALSE-Workshop)![](https://badgen.net/github/prs/isLinXu/VALSE-Workshop)![](https://badgen.net/github/releases/isLinXu/VALSE-Workshop)![](https://badgen.net/github/license/isLinXu/VALSE-Workshop)
 
-[简体中文](./README.md) | English
+[简体中文](https://github.com/isLinXu/VALSE-WorkShop/blob/main/README_cn.md) | English
 
 # Abstract
 
