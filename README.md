@@ -126,6 +126,13 @@ python scripts/article/valse_slides_1.py
 > ……  
 > http://valser.org/portal.php?mod=attachment&id=79  
 
+# Communication
+
+<img src="communication/wechat" style="zoom: 25%;" /><img src="communication/wechat_group" style="zoom: 25%;" />
+
+
+
+
 # References
 
 1.http://valser.org/
