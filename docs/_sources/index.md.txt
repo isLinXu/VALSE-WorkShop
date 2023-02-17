@@ -1,10 +1,10 @@
-# CMU-CS-Course
+# VALSE-WORKSHOP
 
 ---
 
 ## 项目介绍
 
-卡内基梅隆计算机课程学习笔记。
+Vasle-Workshop
 
 ### 项目简介
 
